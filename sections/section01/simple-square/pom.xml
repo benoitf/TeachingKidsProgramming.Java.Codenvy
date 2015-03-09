@@ -7,9 +7,9 @@
   <name>TKP :: Sections :: 01 :: SimpleSquare</name>
   <dependencies>
     <dependency>
-      <groupId>org.teachingkids.programming</groupId>
-      <artifactId>teaching-kids-programming-source</artifactId>
-      <version>${project.version}</version>
+      <groupId>org.teachingkidsprogramming</groupId>
+      <artifactId>TeachingKidsProgramming</artifactId>
+      <version>0.0.1</version>
     </dependency>
   </dependencies>
   <build>
